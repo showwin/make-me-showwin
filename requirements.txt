@@ -1,0 +1,4 @@
+boto3==1.4.5
+Pillow==3.4.2
+requests==2.19.1
+slackbot==0.5.1
