@@ -10,7 +10,7 @@ This is a Slack bot.
 # Usage
 
 ```bash
-$ aws configre
+$ aws configre  # require S3(write) and Rekognition(face detection) authority.
 $ export SLACK_TOKEN_MAKE_ME_SHOWWIN=xoxb-****  # [Slack Token]
 $ nohup python run.py &
 ```
